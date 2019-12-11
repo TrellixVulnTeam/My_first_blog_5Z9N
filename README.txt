@@ -1,3 +1,6 @@
+if we make activation in the ubunutu we do:
+source .\django_venv\Scripts\activate
+if we do it on windows is enough:
 .\django_venv\Scripts\activate
 
 If we are checking before deploy
